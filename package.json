@@ -34,7 +34,7 @@
         "gulp-zip": "^5.0.1",
         "highlight.js": "^10.0.3",
         "immutable": "^4.0.0-rc.12",
-        "marked": "^1.1.0",
+        "marked": "^4.0.10",
         "node-qunit-puppeteer": "^2.0.1",
         "puppeteer": "^5.0.0",
         "qunit": "^2.10.0",
