@@ -21,7 +21,7 @@
         "colors": "^1.4.0",
         "core-js": "^3.6.5",
         "decktape": "^3.0.0",
-        "express": "^4.14.0",
+        "express": "^4.17.3",
         "glob": "^7.1.6",
         "gulp": "^4.0.2",
         "gulp-autoprefixer": "^7.0.1",
